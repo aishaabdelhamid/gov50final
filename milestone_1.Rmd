@@ -1,0 +1,32 @@
+---
+title: "Milestone #1"
+author: "Aisha Abdelhamid"
+
+output: html_document
+---
+
+## Medical Language and Conflict
+
+For my project, I want to focus on the use of medical terminology in the 
+context of war and militarization and how it may influence public opinion and 
+policy decisions. Specifically, I want to see how these terms (e.g. "surgical 
+strike") affected decisions on and understanding of the "war on terror". I 
+hypothesize that the use of these terms muddles how harmful these expeditions 
+were to civilian populations despite the idea that the U.S. is "saving" these
+populations. It is also possible that these terms are used more often when
+public opinion is not in favor of the wars.
+
+I plan on doing a text analysis of American political speeches and articles 
+related to the "war on terror" along with analysis of public opinion and 
+politicians' policy decisions. I plan to do this through analyses of polls that
+were done during that time and any recent Twitter trends regarding terrorism
+or strikes done in recent years or in years prior to Twitter being created.
+I would also like to look at trends in decision-making (e.g. in favor of or 
+against the war or certain elements of the "war on terror").
+
+If the data available allows, I would also like to analyze the language used in
+Arabic newspapers, speeches, and social media. This would help me analyze the
+voices of those who are being directly affected by the "war on terror" and how
+their viewpoints may or may not have changed alongside American opinion. This
+would be limited considering that Afghanistan is also affected by the "war on
+terror" but their texts are not in Arabic.
